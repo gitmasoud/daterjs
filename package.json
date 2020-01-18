@@ -4,8 +4,7 @@
   "description": "",
   "main": "dateFrontEnd.js",
   "dependencies": {
-    "commander": "^4.1.0",
-    "daterjs": "^1.0.1"
+    "daterjs": "^1.0.4"
   },
   "devDependencies": {},
   "scripts": {
